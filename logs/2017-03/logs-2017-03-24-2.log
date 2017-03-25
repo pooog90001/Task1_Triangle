@@ -1,0 +1,366 @@
+2017-03-21T18:43:49,128 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-21T18:43:49,144 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-21T18:43:49,144 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-21T18:43:49,144 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-21T18:45:13,627 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-21T18:45:13,664 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-21T18:45:13,664 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-21T18:45:13,664 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-21T18:45:13,664 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-21T23:35:25,876 [main] FATAL vladlitvin.reader.PointFileReader - This file not found
+2017-03-21T23:37:00,863 [main] FATAL vladlitvin.reader.PointFileReader - This file not found
+2017-03-21T23:39:55,632 [main] FATAL vladlitvin.reader.PointFileReader - This file not foundsdfsdf (The system cannot find the file specified)
+2017-03-21T23:40:15,891 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-21T23:43:10,189 [main] FATAL vladlitvin.reader.PointFileReader - Error file readingjava.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-21T23:43:42,921 [main] FATAL vladlitvin.reader.PointFileReader - Error file readingjava.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-21T23:46:01,464 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-21T23:46:01,494 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-21T23:46:01,495 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-21T23:46:01,495 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-21T23:46:01,495 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-21T23:46:31,560 [main] FATAL vladlitvin.reader.PointFileReader - Error file readingjava.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-21T23:48:12,668 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-21T23:51:59,584 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-21T23:51:59,613 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-21T23:51:59,613 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-21T23:51:59,613 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-21T23:51:59,613 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-21T23:58:27,517 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-21T23:59:26,971 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T00:00:46,086 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T00:01:55,638 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T00:02:12,126 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T00:02:37,139 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T00:10:41,531 [main] WARN vladlitvin.creator.TraingleCreator - Mistake created triangle weerrerewree
+2017-03-22T00:12:35,779 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-22T00:12:42,562 [main] WARN vladlitvin.creator.TraingleCreator - Mistake created triangle  (12, 01), (12, 03.2), (03.3, 2);
+2017-03-22T00:12:50,529 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-22T00:14:05,327 [main] WARN vladlitvin.creator.TraingleCreator - Mistake created triangle (12, 01 ),  (12, 03.2), (03.3, 2);
+2017-03-22T01:58:28,565 [main] WARN vladlitvin.creator.PointCreator - Mistake created point sdfwecscsad(12, 01)324235325
+2017-03-22T01:58:28,589 [main] WARN vladlitvin.creator.PointCreator - Mistake created point (0000012, 01)
+2017-03-22T02:02:02,281 [main] WARN vladlitvin.creator.PointCreator - Mistake created point sdfwecscsad(12, 01)324235325
+2017-03-22T02:02:21,070 [main] WARN vladlitvin.creator.PointCreator - Mistake created point sdfwecscsad(12, 01)324235325
+2017-03-22T02:05:40,513 [main] WARN vladlitvin.creator.PointCreator - Mistake created point sdfwecscsad(12, 01)324235325
+2017-03-22T02:05:43,783 [main] WARN vladlitvin.creator.PointCreator - Mistake created point  (2.982422, 00000.0000)
+2017-03-22T02:05:43,807 [main] WARN vladlitvin.creator.PointCreator - Mistake created point sdfwecscsad(12, 01)324235325
+2017-03-22T07:27:54,201 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:31:36,496 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:31:36,512 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:38:50,207 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:38:50,238 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:38:50,238 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-22T07:38:50,238 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-22T07:38:50,238 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-22T07:38:50,238 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-22T07:38:50,238 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-22T07:38:50,238 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T07:39:36,280 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:39:36,296 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:39:36,296 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-22T07:39:36,296 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-22T07:39:36,296 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-22T07:39:36,311 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-22T07:39:36,311 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-22T07:39:36,311 [main] FATAL vladlitvin.reader.PointFileReader - This file not found sdfsdf (The system cannot find the file specified)
+2017-03-22T07:40:51,560 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:40:51,575 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T07:40:51,575 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-22T07:40:51,575 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-22T07:40:51,575 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-22T07:40:51,575 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-22T07:40:51,575 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-22T07:40:51,575 [main] FATAL vladlitvin.reader.PointFileReader - This file not found java.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-22T23:22:13,047 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T23:22:13,068 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-22T23:22:13,131 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-22T23:22:13,131 [main] FATAL vladlitvin.reader.PointFileReader - This file not found java.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-23T00:56:50,490 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-23T00:56:50,505 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-23T00:56:50,559 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T00:56:50,559 [main] FATAL vladlitvin.reader.PointFileReader - This file not found java.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-23T13:49:57,246 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T13:49:57,262 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T13:51:49,823 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T13:52:26,881 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [  (12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T13:52:54,724 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T17:53:30,923 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:44:21,028 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:45:44,967 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:46:38,392 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:47:26,340 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:48:16,712 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:48:35,483 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, x = -32; y = 3;, x = 123, 322; y = 32.34;, x = 123, 322; 2y =23 32.34;, x = 123; y = 32.34;]
+2017-03-23T23:51:05,990 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile2.txtread5lines: [x = 1; y = 5;, x = 1; y = 1;, xy = 1a23; y = 32.34;, x = 4; y = 1;, x = 12sd3; y = 32.34;]
+2017-03-23T23:51:36,420 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile3.txtread3lines: [x = 4; y = 5;, x = 1; y = 5;, x = 134; y = 5;]
+2017-03-23T23:55:32,245 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile2.txttread5lines: [x = 1; y = 5;, x = 1; y = 1;, xy = 1a23; y = 32.34;, x = 4; y = 1;, x = 12sd3; y = 32.34;]
+2017-03-24T00:09:38,939 [main] INFO vladlitvin.entity.Triangle - Observer adds observable
+2017-03-24T00:10:53,128 [main] INFO vladlitvin.entity.Triangle - Observer adds observable
+2017-03-24T00:10:53,150 [main] INFO vladlitvin.entity.Triangle - Observer adds observable
+2017-03-24T00:10:53,150 [main] INFO vladlitvin.entity.Triangle - Observer adds observable
+2017-03-24T00:13:52,018 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:13:52,033 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-24T00:13:52,033 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T00:18:59,983 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:18:59,999 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-24T00:18:59,999 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T00:18:59,999 [main] INFO vladlitvin.entity.Triangle - 
+Triangle with id: 0 changed, now his's parametrs:
+Triangle # 0
+	Coordinates of the vertex A = (23.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:18:59,999 [main] INFO vladlitvin.entity.Triangle - Perimiter = 84.27178179093455
+2017-03-24T00:18:59,999 [main] INFO vladlitvin.entity.Triangle - Square = 331.49999999999983
+2017-03-24T00:25:22,860 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:25:22,897 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-24T00:25:22,897 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T00:25:22,898 [main] INFO vladlitvin.entity.Triangle - 
+Triangle with id: 0 changed, now his's parametrs:
+Triangle # 0
+	Coordinates of the vertex A = (23.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:25:22,898 [main] INFO vladlitvin.entity.Triangle - Perimiter = 84.27178179093455
+2017-03-24T00:25:22,898 [main] INFO vladlitvin.entity.Triangle - Square = 331.49999999999983
+2017-03-24T00:25:22,898 [main] INFO vladlitvin.entity.Triangle - 
+Triangle with id: 1 removed
+2017-03-24T00:26:20,272 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:26:20,287 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-24T00:26:20,287 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T00:26:20,287 [main] INFO vladlitvin.entity.Triangle - 
+Triangle with id: 0 changed, now his's parametrs:
+Triangle # 0
+	Coordinates of the vertex A = (23.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T00:26:20,287 [main] INFO vladlitvin.entity.Triangle - Perimiter = 84.27178179093455
+2017-03-24T00:26:20,287 [main] INFO vladlitvin.entity.Triangle - Square = 331.49999999999983
+2017-03-24T00:26:20,287 [main] INFO vladlitvin.entity.Triangle - Triangle with id: 1 removed
+2017-03-24T00:44:21,294 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle weerrerewree
+2017-03-24T00:50:10,993 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle weerrerewree
+2017-03-24T00:50:14,756 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle (12, 01 ),  (12, 03.2), (03.3, 2);
+2017-03-24T01:32:53,782 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle (12, 01 ),  (12, 03.2), (03.3, 2);
+2017-03-24T01:32:57,737 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T01:36:51,116 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:08,292 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:08,323 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:08,323 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:08,323 [main] INFO vladlitvin.creator.TriangleCreator - Created 3 traingles 
+	 [Triangle # 1
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 2
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 3
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0)]
+2017-03-24T02:14:13,800 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:13,816 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:13,816 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T02:14:13,816 [main] INFO vladlitvin.creator.TriangleCreator - Created 3 traingles 
+	 [Triangle # 1
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 2
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 3
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0)]
+2017-03-24T02:14:58,282 [main] INFO vladlitvin.creator.TriangleCreator - Created 0 traingles 
+	 []
+2017-03-24T02:15:04,765 [main] INFO vladlitvin.creator.TriangleCreator - Created 0 traingles 
+	 []
+2017-03-24T02:18:03,724 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T02:51:37,413 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T02:51:44,161 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T02:51:44,183 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-24T02:51:44,183 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 3
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T02:51:44,183 [main] INFO vladlitvin.entity.Triangle - 
+Triangle with id: 1 changed, now his's parametrs:
+Triangle # 1
+	Coordinates of the vertex A = (23.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T02:51:44,183 [main] INFO vladlitvin.entity.Triangle - Perimiter = 84.27178179093455
+2017-03-24T02:51:44,183 [main] INFO vladlitvin.entity.Triangle - Square = 331.49999999999983
+2017-03-24T02:51:44,183 [main] INFO vladlitvin.entity.Triangle - Triangle with id: 2 removed
+2017-03-24T02:52:58,183 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T02:52:58,199 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-24T02:52:58,199 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 3
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T02:52:58,199 [main] INFO vladlitvin.entity.Triangle - 
+Triangle with id: 1 changed, now his's parametrs:
+Triangle # 1
+	Coordinates of the vertex A = (23.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-24T02:52:58,199 [main] INFO vladlitvin.entity.Triangle - Perimiter = 84.27178179093455
+2017-03-24T02:52:58,199 [main] INFO vladlitvin.entity.Triangle - Square = 331.49999999999983
+2017-03-24T02:52:58,199 [main] INFO vladlitvin.entity.Triangle - Triangle with id: 2 removed
+2017-03-24T11:19:58,771 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T11:22:04,553 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T11:22:58,108 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T11:25:15,426 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T11:25:34,100 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T11:26:19,911 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 2
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 3.0)
+	Coordinates of the vertex С = (64.0, 309.0)
+2017-03-24T13:42:47,868 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-24T13:42:47,899 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-24T13:42:47,952 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:42:47,952 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:42:47,952 [main] FATAL vladlitvin.reader.PointFileReader - This file not found java.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-24T13:42:47,952 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:42:47,968 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:42:47,984 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:42:47,984 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:42:47,984 [main] INFO vladlitvin.creator.TriangleCreator - Created 3 traingles 
+	 [Triangle # 5
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 6
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 7
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0)]
+2017-03-24T13:42:47,984 [main] INFO vladlitvin.creator.TriangleCreator - Created 0 traingles 
+	 []
+2017-03-24T13:42:47,984 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle weerrerewree
+2017-03-24T13:42:47,984 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle (12, 01 ),  (12, 03.2), (03.3, 2);
+2017-03-24T13:42:47,984 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:45:44,442 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:45:52,867 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-24T13:45:52,883 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-24T13:45:52,930 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:45:52,930 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:45:52,930 [main] FATAL vladlitvin.reader.PointFileReader - This file not found java.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-24T13:45:52,930 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-24T13:45:52,949 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:45:52,950 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:45:52,951 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-24T13:45:52,951 [main] INFO vladlitvin.creator.TriangleCreator - Created 3 traingles 
+	 [Triangle # 5
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 6
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 7
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0)]
+2017-03-24T13:45:52,951 [main] INFO vladlitvin.creator.TriangleCreator - Created 0 traingles 
+	 []
+2017-03-24T13:45:52,952 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle weerrerewree
+2017-03-24T13:45:52,952 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle (12, 01 ),  (12, 03.2), (03.3, 2);
+2017-03-24T13:45:52,952 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]

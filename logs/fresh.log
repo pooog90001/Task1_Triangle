@@ -1,0 +1,112 @@
+2017-03-25T10:38:51,832 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T10:38:51,870 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 1
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-25T10:38:51,870 [main] INFO vladlitvin.entity.Triangle - Triangle with id: 1 removed
+2017-03-25T10:41:44,670 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:03:15,814 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:11:33,704 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:13:11,357 [main] INFO vladlitvin.entity.Triangle - Observer adds Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:20:11,288 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:20:11,319 [main] INFO vladlitvin.entity.Triangle - Square = 20.499999999999904 perimeter = 59.483097269870356
+2017-03-25T11:20:11,319 [main] INFO vladlitvin.entity.Triangle - Changed Triangle # 0
+	Coordinates of the vertex A = (23.0, 23.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:20:11,319 [main] INFO vladlitvin.entity.Triangle - Square = 78.49999999999996 perimeter = 60.83768063805521
+2017-03-25T11:20:29,510 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:20:29,545 [main] INFO vladlitvin.entity.Triangle - Square = 20.499999999999904 perimeter = 59.483097269870356
+2017-03-25T11:20:29,546 [main] INFO vladlitvin.entity.Triangle - Changed Triangle # 0
+	Coordinates of the vertex A = (23.0, 23.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:20:29,546 [main] INFO vladlitvin.entity.Triangle - Square = 78.49999999999996 perimeter = 60.83768063805521
+2017-03-25T11:21:24,235 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 0
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:21:24,266 [main] INFO vladlitvin.entity.Triangle - Square = 20.499999999999904 perimeter = 59.483097269870356
+2017-03-25T11:21:24,266 [main] INFO vladlitvin.entity.Triangle - Changed Triangle # 0
+	Coordinates of the vertex A = (0.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:21:24,266 [main] INFO vladlitvin.entity.Triangle - Square = 112.99999999999984 perimeter = 80.43900033591902
+2017-03-25T11:25:02,419 [main] INFO vladlitvin.creator.PointCreator - Created 4 points 
+	 [(12.0, 1.0), (1.2, 61.0), (343532.982422, 0.0), (12.0, 1.0)]
+2017-03-25T11:25:02,450 [main] INFO vladlitvin.creator.PointCreator - Created 2 points 
+	 [(343532.982422, 0.0), (12.0, 1.0)]
+2017-03-25T11:25:02,504 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-25T11:25:02,519 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-25T11:25:02,519 [main] FATAL vladlitvin.reader.PointFileReader - This file not found java.io.FileNotFoundException: sdfsdf (The system cannot find the file specified)
+2017-03-25T11:25:02,519 [main] INFO vladlitvin.reader.PointFileReader - With file resources\inPutFile.txtread5lines: [(12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 0sd3.2), (03.3, 2);, (12, 01333333333), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);, (12, 01), (12, 03.2), (03.3, 2);]
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.creator.TriangleCreator - Created 3 traingles 
+	 [Triangle # 5
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 6
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0), Triangle # 7
+	Coordinates of the vertex A = (12.0, 1.0)
+	Coordinates of the vertex B = (12.0, 3.2)
+	Coordinates of the vertex С = (3.3, 2.0)]
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.creator.TriangleCreator - Created 0 traingles 
+	 []
+2017-03-25T11:25:02,535 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle weerrerewree
+2017-03-25T11:25:02,535 [main] WARN vladlitvin.creator.TriangleCreator - Mistake created traingle (12, 01 ),  (12, 03.2), (03.3, 2);
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.creator.PointCreator - Created 3 points 
+	 [(12.0, 1.0), (12.0, 3.2), (3.3, 2.0)]
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 14
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.entity.Triangle - Square = 20.499999999999904 perimeter = 59.483097269870356
+2017-03-25T11:25:02,535 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 15
+	Coordinates of the vertex A = (4.0, 3.2)
+	Coordinates of the vertex B = (2.0, 172.0)
+	Coordinates of the vertex С = (4.0, 34.0)
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Square = 30.800000000214382 perimeter = 337.6263399181234
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Triangle with id: 15 removed
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 17
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Square = 20.499999999999904 perimeter = 59.483097269870356
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Observer added Triangle # 20
+	Coordinates of the vertex A = (23.0, 32.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Square = 20.499999999999904 perimeter = 59.483097269870356
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Changed Triangle # 20
+	Coordinates of the vertex A = (0.0, 0.0)
+	Coordinates of the vertex B = (2.0, 12.0)
+	Coordinates of the vertex С = (24.0, 31.0)
+2017-03-25T11:25:02,550 [main] INFO vladlitvin.entity.Triangle - Square = 112.99999999999984 perimeter = 80.43900033591902

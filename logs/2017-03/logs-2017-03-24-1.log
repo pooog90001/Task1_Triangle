@@ -1,0 +1,11 @@
+2017-03-21T18:43:41,794 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-21T18:43:41,810 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-21T18:43:41,810 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-21T18:43:41,810 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-21T18:43:41,810 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-21T18:43:45,573 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
+2017-03-21T18:43:45,589 [main] INFO vladlitvin.reader.PointFileReader - >>> x = -32; y = 3;
+2017-03-21T18:43:45,589 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; y = 32.34;
+2017-03-21T18:43:45,589 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123, 322; 2y =23 32.34;
+2017-03-21T18:43:45,589 [main] INFO vladlitvin.reader.PointFileReader - >>> x = 123; y = 32.34;
+2017-03-21T18:43:49,113 [main] INFO vladlitvin.reader.PointFileReader - >>> (12, 01), (12, 03.2), (03.3, 2);
